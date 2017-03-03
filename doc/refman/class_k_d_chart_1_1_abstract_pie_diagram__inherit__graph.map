@@ -1,0 +1,7 @@
+<map id="KDChart::AbstractPieDiagram" name="KDChart::AbstractPieDiagram">
+<area shape="rect" id="node5" href="$class_k_d_chart_1_1_pie_diagram.html" title="PieDiagram defines a common pie diagram. " alt="" coords="5,304,155,331"/>
+<area shape="rect" id="node6" href="$class_k_d_chart_1_1_ring_diagram.html" title="RingDiagram defines a common ring diagram. " alt="" coords="179,304,336,331"/>
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_polar_diagram.html" title="Base class for diagrams based on a polar coordinate system. " alt="" coords="63,155,273,181"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="79,80,257,107"/>
+<area shape="rect" id="node4" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="100,5,236,32"/>
+</map>

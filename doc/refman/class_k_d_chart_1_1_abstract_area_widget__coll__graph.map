@@ -1,0 +1,4 @@
+<map id="KDChart::AbstractAreaWidget" name="KDChart::AbstractAreaWidget">
+<area shape="rect" id="node2" href="$class_q_widget.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="5,5,79,32"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_area_base.html" title="Base class for AbstractArea and AbstractAreaWidget: An area in the chart with a background, a frame, etc. " alt="" coords="103,5,290,32"/>
+</map>

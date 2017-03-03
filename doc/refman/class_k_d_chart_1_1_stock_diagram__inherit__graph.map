@@ -1,0 +1,5 @@
+<map id="KDChart::StockDiagram" name="KDChart::StockDiagram">
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_cartesian_diagram.html" title="Base class for diagrams based on a cartesian coordianate system. " alt="" coords="5,155,192,196"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="9,80,188,107"/>
+<area shape="rect" id="node4" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="31,5,167,32"/>
+</map>

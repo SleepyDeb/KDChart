@@ -1,0 +1,8 @@
+<map id="KDChart::HeaderFooter" name="KDChart::HeaderFooter">
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_text_area.html" title="A text area in the chart with a background, a frame, etc. " alt="" coords="127,229,261,256"/>
+<area shape="rect" id="node3" href="$class_q_object.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="5,155,76,181"/>
+<area shape="rect" id="node4" href="$class_k_d_chart_1_1_abstract_area_base.html" title="Base class for AbstractArea and AbstractAreaWidget: An area in the chart with a background, a frame, etc. " alt="" coords="101,155,287,181"/>
+<area shape="rect" id="node5" href="$class_k_d_chart_1_1_text_layout_item.html" title="Layout item showing a text. " alt="" coords="312,155,484,181"/>
+<area shape="rect" id="node6" href="$class_k_d_chart_1_1_abstract_layout_item.html" title="Base class for all layout items of KD Chart. " alt="" coords="301,80,495,107"/>
+<area shape="rect" id="node7" href="$class_q_layout_item.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="349,5,447,32"/>
+</map>

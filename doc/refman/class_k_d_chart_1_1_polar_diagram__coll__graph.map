@@ -1,0 +1,5 @@
+<map id="KDChart::PolarDiagram" name="KDChart::PolarDiagram">
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_polar_diagram.html" title="Base class for diagrams based on a polar coordinate system. " alt="" coords="5,155,215,181"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="21,80,199,107"/>
+<area shape="rect" id="node4" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="42,5,178,32"/>
+</map>
