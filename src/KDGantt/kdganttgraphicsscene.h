@@ -1,5 +1,5 @@
 /****************************************************************************
-** Copyright (C) 2001-2016 Klaralvdalens Datakonsult AB.  All rights reserved.
+** Copyright (C) 2001-2018 Klaralvdalens Datakonsult AB.  All rights reserved.
 **
 ** This file is part of the KD Chart library.
 **
@@ -75,7 +75,6 @@ namespace KDGantt {
         void deleteSubtree( const QModelIndex& );
 
         ConstraintGraphicsItem* findConstraintItem( const Constraint& ) const;
-        QList<ConstraintGraphicsItem*> findConstraintItems( const QModelIndex& idx ) const;
         void clearConstraintItems();
 
         void setItemDelegate( ItemDelegate* );

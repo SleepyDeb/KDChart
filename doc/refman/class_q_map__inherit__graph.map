@@ -1,11 +1,11 @@
 <map id="QMap&lt; T, K &gt;" name="QMap&lt; T, K &gt;">
-<area shape="rect" id="node2" href="$class_q_map.html" title="QMap\&lt; qreal, QPen \&gt;" alt="" coords="375,23,525,49"/>
-<area shape="rect" id="node3" href="$class_q_map.html" title="QMap\&lt; uint, uint \&gt;" alt="" coords="385,73,515,100"/>
-<area shape="rect" id="node4" href="$class_q_map.html" title="QMap\&lt; int, QMap\&lt; int,\l QMap\&lt; int, QVariant \&gt; \&gt; \&gt;" alt="" coords="359,125,541,166"/>
-<area shape="rect" id="node5" href="$class_q_map.html" title="QMap\&lt; GridType, QPen \&gt;" alt="" coords="363,191,537,217"/>
-<area shape="rect" id="node6" href="$class_q_map.html" title="QMap\&lt; int, QMap\&lt; int,\l QVariant \&gt; \&gt;" alt="" coords="372,242,528,283"/>
-<area shape="rect" id="node7" href="$class_q_map.html" title="QMap\&lt; KDChart::LeveyJennings\lGridAttributes::Range, QBrush \&gt;" alt="" coords="343,307,557,349"/>
-<area shape="rect" id="node8" href="$class_q_map.html" title="QMap\&lt; KDChartEnums\l::PositionValue, qreal \&gt;" alt="" coords="369,373,531,414"/>
-<area shape="rect" id="node9" href="$class_q_map.html" title="QMap\&lt; int, QVariant \&gt;" alt="" coords="373,439,527,465"/>
-<area shape="rect" id="node10" href="$class_q_map.html" title="QMap\&lt; GridType, bool \&gt;" alt="" coords="367,489,533,516"/>
+<area shape="rect" id="node2" href="$class_q_map.html" title="QMap\&lt; qreal, QPen \&gt;" alt="" coords="387,24,537,51"/>
+<area shape="rect" id="node3" href="$class_q_map.html" title="QMap\&lt; uint, uint \&gt;" alt="" coords="397,75,527,101"/>
+<area shape="rect" id="node4" href="$class_q_map.html" title="QMap\&lt; int, QMap\&lt; int,\l QMap\&lt; int, QVariant \&gt; \&gt; \&gt;" alt="" coords="371,126,553,167"/>
+<area shape="rect" id="node5" href="$class_q_map.html" title="QMap\&lt; GridType, QPen \&gt;" alt="" coords="375,192,549,219"/>
+<area shape="rect" id="node6" href="$class_q_map.html" title="QMap\&lt; int, QMap\&lt; int,\l QVariant \&gt; \&gt;" alt="" coords="384,243,540,285"/>
+<area shape="rect" id="node7" href="$class_q_map.html" title="QMap\&lt; KDChartEnums\l::PositionValue, qreal \&gt;" alt="" coords="383,309,541,350"/>
+<area shape="rect" id="node8" href="$class_q_map.html" title="QMap\&lt; LeveyJenningsGridAttributes\l::Range, QBrush \&gt;" alt="" coords="344,374,580,415"/>
+<area shape="rect" id="node9" href="$class_q_map.html" title="QMap\&lt; int, QVariant \&gt;" alt="" coords="385,440,539,467"/>
+<area shape="rect" id="node10" href="$class_q_map.html" title="QMap\&lt; GridType, bool \&gt;" alt="" coords="379,491,545,517"/>
 </map>

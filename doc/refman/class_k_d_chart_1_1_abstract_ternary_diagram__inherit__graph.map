@@ -1,6 +1,6 @@
 <map id="KDChart::AbstractTernaryDiagram" name="KDChart::AbstractTernaryDiagram">
-<area shape="rect" id="node4" href="$class_k_d_chart_1_1_ternary_line_diagram.html" title="A TernaryLineDiagram is a line diagram with a ternary coordinate plane. " alt="" coords="5,244,204,271"/>
-<area shape="rect" id="node5" href="$class_k_d_chart_1_1_ternary_point_diagram.html" title="A TernaryPointDiagram is a point diagram within a ternary coordinate plane. " alt="" coords="228,244,432,271"/>
-<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="127,80,306,107"/>
-<area shape="rect" id="node3" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="149,5,285,32"/>
+<area shape="rect" id="node4" href="$class_k_d_chart_1_1_ternary_line_diagram.html" title="A TernaryLineDiagram is a line diagram with a ternary coordinate plane. " alt="" coords="5,244,200,271"/>
+<area shape="rect" id="node5" href="$class_k_d_chart_1_1_ternary_point_diagram.html" title="A TernaryPointDiagram is a point diagram within a ternary coordinate plane. " alt="" coords="225,244,426,271"/>
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="125,80,301,107"/>
+<area shape="rect" id="node3" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="146,5,281,32"/>
 </map>

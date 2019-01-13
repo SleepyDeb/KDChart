@@ -20,10 +20,8 @@ var searchData=
   ['measureorientationmaximum',['MeasureOrientationMaximum',['../class_k_d_chart_enums.html#a8a94aede87129473d92b1352902f1f61a86f86075be4c433c3a57244c5a4ccafd',1,'KDChartEnums']]],
   ['measureorientationminimum',['MeasureOrientationMinimum',['../class_k_d_chart_enums.html#a8a94aede87129473d92b1352902f1f61a1567ca77d25e9c70970a2c26295a40ac',1,'KDChartEnums']]],
   ['measureorientationvertical',['MeasureOrientationVertical',['../class_k_d_chart_enums.html#a8a94aede87129473d92b1352902f1f61a01bd33fbae4786a6b1cab97c256f3b54',1,'KDChartEnums']]],
-  ['minute',['Minute',['../class_k_d_gantt_1_1_date_time_scale_formatter.html#a0c062464cf8992f58e2fa69ccefbcc2ca7d2eda54c06d6e3e4bb59007f9ee275f',1,'KDGantt::DateTimeScaleFormatter']]],
   ['missingvaluesarebridged',['MissingValuesAreBridged',['../class_k_d_chart_1_1_line_attributes.html#a0484b1a915de8ccff301a86d808427d1a38929839574ef6ec78a97daecf45e559',1,'KDChart::LineAttributes']]],
   ['missingvalueshidesegments',['MissingValuesHideSegments',['../class_k_d_chart_1_1_line_attributes.html#a0484b1a915de8ccff301a86d808427d1a8f327df032955d5f9ce8b1a272080548',1,'KDChart::LineAttributes']]],
   ['missingvaluespolicyignored',['MissingValuesPolicyIgnored',['../class_k_d_chart_1_1_line_attributes.html#a0484b1a915de8ccff301a86d808427d1a33ef2c5b7ac23269423eb5c173db5021',1,'KDChart::LineAttributes']]],
-  ['missingvaluesshownaszero',['MissingValuesShownAsZero',['../class_k_d_chart_1_1_line_attributes.html#a0484b1a915de8ccff301a86d808427d1a94aa894ab4f4c413350b237d23b360e6',1,'KDChart::LineAttributes']]],
-  ['month',['Month',['../class_k_d_gantt_1_1_date_time_scale_formatter.html#a0c062464cf8992f58e2fa69ccefbcc2ca11d449de5cb14767afa9ae07c07f2eb7',1,'KDGantt::DateTimeScaleFormatter']]]
+  ['missingvaluesshownaszero',['MissingValuesShownAsZero',['../class_k_d_chart_1_1_line_attributes.html#a0484b1a915de8ccff301a86d808427d1a94aa894ab4f4c413350b237d23b360e6',1,'KDChart::LineAttributes']]]
 ];

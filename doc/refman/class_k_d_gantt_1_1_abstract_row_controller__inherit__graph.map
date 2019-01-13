@@ -1,4 +1,4 @@
 <map id="KDGantt::AbstractRowController" name="KDGantt::AbstractRowController">
-<area shape="rect" id="node2" href="$class_k_d_gantt_1_1_list_view_row_controller.html" title="KDGantt::ListViewRowController" alt="" coords="269,5,483,32"/>
-<area shape="rect" id="node3" href="$class_k_d_gantt_1_1_tree_view_row_controller.html" title="KDGantt::TreeViewRowController" alt="" coords="267,56,485,83"/>
+<area shape="rect" id="node2" href="$class_k_d_gantt_1_1_list_view_row_controller.html" title="KDGantt::ListViewRowController" alt="" coords="265,5,475,32"/>
+<area shape="rect" id="node3" href="$class_k_d_gantt_1_1_tree_view_row_controller.html" title="KDGantt::TreeViewRowController" alt="" coords="263,56,477,83"/>
 </map>

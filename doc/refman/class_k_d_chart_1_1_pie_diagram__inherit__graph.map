@@ -1,6 +1,6 @@
 <map id="KDChart::PieDiagram" name="KDChart::PieDiagram">
-<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_pie_diagram.html" title="Base class for any diagram type. " alt="" coords="11,229,209,256"/>
-<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_polar_diagram.html" title="Base class for diagrams based on a polar coordinate system. " alt="" coords="5,155,215,181"/>
-<area shape="rect" id="node4" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="21,80,199,107"/>
-<area shape="rect" id="node5" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="42,5,178,32"/>
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_pie_diagram.html" title="Base class for any diagram type. " alt="" coords="11,229,206,256"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_polar_diagram.html" title="Base class for diagrams based on a polar coordinate system. " alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node4" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="21,80,197,107"/>
+<area shape="rect" id="node5" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="41,5,176,32"/>
 </map>

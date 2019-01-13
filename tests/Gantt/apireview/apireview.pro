@@ -6,7 +6,7 @@ DEPENDPATH += . $${TOP_SOURCE_DIR}/include
 INCLUDEPATH += . $${TOP_SOURCE_DIR}/include
 QT += svg
 
-contains(QT_VERSION, ^5\\.[0-9]\\..*):QT += printsupport
+greaterThan(QT_MAJOR_VERSION, 4):QT += printsupport
 
 HEADERS += mainwindow.h \
            entrydialog.h \

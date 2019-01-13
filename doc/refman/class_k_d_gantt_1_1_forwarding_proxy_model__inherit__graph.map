@@ -1,5 +1,5 @@
 <map id="KDGantt::ForwardingProxyModel" name="KDGantt::ForwardingProxyModel">
-<area shape="rect" id="node3" href="$class_k_d_gantt_1_1_proxy_model.html" title="KDGantt::ProxyModel" alt="" coords="5,177,156,203"/>
-<area shape="rect" id="node4" href="$class_k_d_gantt_1_1_summary_handling_proxy_model.html" title="Proxy model that supports summary gantt items. " alt="" coords="180,169,368,211"/>
-<area shape="rect" id="node2" href="$class_q_abstract_proxy_model.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="101,5,252,32"/>
+<area shape="rect" id="node3" href="$class_k_d_gantt_1_1_proxy_model.html" title="KDGantt::ProxyModel" alt="" coords="5,177,155,203"/>
+<area shape="rect" id="node4" href="$class_k_d_gantt_1_1_summary_handling_proxy_model.html" title="Proxy model that supports summary gantt items. " alt="" coords="179,169,365,211"/>
+<area shape="rect" id="node2" href="$class_q_abstract_proxy_model.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="101,5,251,32"/>
 </map>

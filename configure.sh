@@ -4,7 +4,7 @@ Product=KDChart
 product=kdchart
 ProductSpace="KD Chart"
 
-VERSION=2.6.0
+VERSION=2.6.1
 
 STATIC_BUILD_SUPPORTED=true
 

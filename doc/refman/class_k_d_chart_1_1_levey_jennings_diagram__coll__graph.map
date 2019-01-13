@@ -1,6 +1,6 @@
 <map id="KDChart::LeveyJenningsDiagram" name="KDChart::LeveyJenningsDiagram">
-<area shape="rect" id="node2" href="$class_k_d_chart_1_1_line_diagram.html" title="LineDiagram defines a common line diagram. " alt="" coords="37,244,191,271"/>
-<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_cartesian_diagram.html" title="Base class for diagrams based on a cartesian coordianate system. " alt="" coords="21,155,207,196"/>
-<area shape="rect" id="node4" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="25,80,203,107"/>
-<area shape="rect" id="node5" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="46,5,182,32"/>
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_line_diagram.html" title="LineDiagram defines a common line diagram. " alt="" coords="37,244,188,271"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_cartesian_diagram.html" title="Base class for diagrams based on a cartesian coordianate system. " alt="" coords="21,155,204,196"/>
+<area shape="rect" id="node4" href="$class_k_d_chart_1_1_abstract_diagram.html" title="AbstractDiagram defines the interface for diagram classes. " alt="" coords="25,80,201,107"/>
+<area shape="rect" id="node5" href="$class_q_abstract_item_view.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="45,5,180,32"/>
 </map>

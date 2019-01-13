@@ -1,12 +1,5 @@
 var searchData=
 [
-  ['scaleauto',['ScaleAuto',['../class_k_d_gantt_1_1_date_time_grid.html#a9e6817e8cce219bed150888ca120e54ca01ac2fbb4790f4c54758812e485e6a50',1,'KDGantt::DateTimeGrid']]],
-  ['scaleday',['ScaleDay',['../class_k_d_gantt_1_1_date_time_grid.html#a9e6817e8cce219bed150888ca120e54cabfb6302d84e01108bd005e8c40554823',1,'KDGantt::DateTimeGrid']]],
-  ['scalehour',['ScaleHour',['../class_k_d_gantt_1_1_date_time_grid.html#a9e6817e8cce219bed150888ca120e54ca03bf521c0a4c4422bfbcef72fc43b2d1',1,'KDGantt::DateTimeGrid']]],
-  ['scalemonth',['ScaleMonth',['../class_k_d_gantt_1_1_date_time_grid.html#a9e6817e8cce219bed150888ca120e54ca1c59609b218159097db3e69caac8f591',1,'KDGantt::DateTimeGrid']]],
-  ['scaleuserdefined',['ScaleUserDefined',['../class_k_d_gantt_1_1_date_time_grid.html#a9e6817e8cce219bed150888ca120e54ca8492fe24dfcbc756705bf78afae0f491',1,'KDGantt::DateTimeGrid']]],
-  ['scaleweek',['ScaleWeek',['../class_k_d_gantt_1_1_date_time_grid.html#a9e6817e8cce219bed150888ca120e54ca75a41b5667262932235df7c3900b4b68',1,'KDGantt::DateTimeGrid']]],
-  ['second',['Second',['../class_k_d_gantt_1_1_date_time_scale_formatter.html#a0c062464cf8992f58e2fa69ccefbcc2ca43410a455729933ac3d2b23baccb6bb7',1,'KDGantt::DateTimeScaleFormatter']]],
   ['sensorchanged',['SensorChanged',['../class_k_d_chart_1_1_levey_jennings_diagram.html#a7e48697977471db78780c243fca8c976ae419026c07135071607be4ab2d597187',1,'KDChart::LeveyJenningsDiagram']]],
   ['slope',['SLOPE',['../class_k_d_chart_1_1_plotter.html#a221aa3133630eb79a57ea846612117bcaf320e058e07bbb94e35e6cd9c4ef7bf1',1,'KDChart::Plotter::SLOPE()'],['../class_k_d_chart_1_1_plotter_diagram_compressor.html#a63bdb9235b355ae4c9dc415ed1e67179ac02e95abfa5b6a35bc8ff9e7af4b9cb0',1,'KDChart::PlotterDiagramCompressor::SLOPE()']]],
   ['stacked',['Stacked',['../class_k_d_chart_1_1_bar_diagram.html#a1c1d67f5f84254c2bd0c0af97f6f7a11a0a2e48942b47d92f10cac97054649775',1,'KDChart::BarDiagram::Stacked()'],['../class_k_d_chart_1_1_line_diagram.html#a9fe8e724f4712e79dccf0dd1ffd115d3a5b0c4b2363afaf74ffc718e28e1b093d',1,'KDChart::LineDiagram::Stacked()'],['../class_k_d_chart_1_1_widget.html#a836cda1dbc8222b911bcc1b081751773adecbf6516ad690b9d4d83d99993309a6',1,'KDChart::Widget::Stacked()']]],

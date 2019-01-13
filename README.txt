@@ -33,11 +33,11 @@ Get Involved
 ============
 KDAB will happily accept external contributions, but substantial
 contributions will require a signed Copyright Assignment Agreement.
-Contact support@kdab.com for more information.
+Contact info@kdab.com for more information.
 
 License
 =======
-The KD Chart Software is (C) 2001-2016 Klarälvdalens Datakonsult AB (KDAB),
+The KD Chart Software is Copyright (C) 2001-2018 Klarälvdalens Datakonsult AB (KDAB),
 and is available under the terms of:
 * the GPL (see LICENSE.GPL.txt for details)
 * the KDAB commercial license, provided that you buy a license.
@@ -57,4 +57,7 @@ standard trainings anywhere around the globe.
 
 Please visit http://www.kdab.com to meet the people who write code like this.
 
-KD CHART and the KD CHART logo are trademarks of Klarälvdalens Datakonsult AB
+
+KD CHART and the KD CHART logo are registered trademarks of Klaralvdalens Datakonsult AB
+in the European Union, the United States, and/or other countries.  Other product and
+company names and logos may be trademarks or registered trademarks of their respective companies.

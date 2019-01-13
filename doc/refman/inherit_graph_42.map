@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_q_graphics_scene.html" title="QGraphicsScene" alt="" coords="5,5,127,32"/>
-<area shape="rect" id="node2" href="$class_k_d_gantt_1_1_graphics_scene.html" title="KDGantt::GraphicsScene" alt="" coords="175,5,345,32"/>
+<area shape="rect" id="node1" href="$class_q_graphics_view.html" title="QGraphicsView" alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node2" href="$class_k_d_gantt_1_1_graphics_view.html" title="The GraphicsView class provides a model/view implementation of a gantt chart. " alt="" coords="165,5,325,32"/>
 </map>

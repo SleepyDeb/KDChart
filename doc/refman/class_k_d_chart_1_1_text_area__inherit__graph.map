@@ -1,8 +1,8 @@
 <map id="KDChart::TextArea" name="KDChart::TextArea">
-<area shape="rect" id="node7" href="$class_k_d_chart_1_1_header_footer.html" title="A header or footer displaying text above or below charts. " alt="" coords="114,304,274,331"/>
+<area shape="rect" id="node7" href="$class_k_d_chart_1_1_header_footer.html" title="A header or footer displaying text above or below charts. " alt="" coords="114,304,271,331"/>
 <area shape="rect" id="node2" href="$class_q_object.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="5,155,76,181"/>
-<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_area_base.html" title="Base class for AbstractArea and AbstractAreaWidget: An area in the chart with a background, a frame, etc. " alt="" coords="101,155,287,181"/>
-<area shape="rect" id="node4" href="$class_k_d_chart_1_1_text_layout_item.html" title="Layout item showing a text. " alt="" coords="312,155,484,181"/>
-<area shape="rect" id="node5" href="$class_k_d_chart_1_1_abstract_layout_item.html" title="Base class for all layout items of KD Chart. " alt="" coords="301,80,495,107"/>
-<area shape="rect" id="node6" href="$class_q_layout_item.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="349,5,447,32"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_abstract_area_base.html" title="Base class for AbstractArea and AbstractAreaWidget: An area in the chart with a background, a frame, etc. " alt="" coords="100,155,285,181"/>
+<area shape="rect" id="node4" href="$class_k_d_chart_1_1_text_layout_item.html" title="Layout item showing a text. " alt="" coords="310,155,481,181"/>
+<area shape="rect" id="node5" href="$class_k_d_chart_1_1_abstract_layout_item.html" title="Base class for all layout items of KD Chart. " alt="" coords="299,80,492,107"/>
+<area shape="rect" id="node6" href="$class_q_layout_item.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="347,5,444,32"/>
 </map>

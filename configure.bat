@@ -4,7 +4,7 @@ set product_low=kdchart
 set Product_mix=KDChart
 set Product_Space="KD Chart"
 
-set VERSION=2.6.0
+set VERSION=2.6.1
 
 set SOURCE_DIR=%~dp0
 set PACKSCRIPTS_DIR=../admin/packscripts

@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_q_style_option_view_item.html" title="QStyleOptionViewItem" alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node2" href="$class_k_d_gantt_1_1_style_option_gantt_item.html" title="QStyleOption subclass for gantt items. " alt="" coords="208,5,415,32"/>
+<area shape="rect" id="node1" href="$class_q_text_document.html" title="Class only listed here to document inheritance of some KDChart classes. " alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$class_k_d_text_document.html" title="KDTextDocument is an internally used enhanced QTextDocument. " alt="" coords="171,5,296,32"/>
 </map>

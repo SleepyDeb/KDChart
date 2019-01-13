@@ -21,6 +21,7 @@ win32 {
     QMAKE_CXXFLAGS += /GR /EHsc /wd4251
 }
 }
+macx:QMAKE_SONAME_PREFIX = @rpath
 CONFIG += depend_includepath
 
 contains(TEMPLATE, lib) {

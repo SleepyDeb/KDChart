@@ -1,5 +1,5 @@
 /****************************************************************************
-** Copyright (C) 2001-2016 Klaralvdalens Datakonsult AB.  All rights reserved.
+** Copyright (C) 2001-2018 Klaralvdalens Datakonsult AB.  All rights reserved.
 **
 ** This file is part of the KD Chart library.
 **
@@ -195,11 +195,11 @@ void PercentLyingBarDiagram::paint( PaintContext* ctx )
 
             QPointF point, previousPoint;
             if ( sumValuesVector.at( curRow ) != 0 && value > 0 ) {
-                QPointF dataPoint( ( stackedValues / sumValuesVector.at( curRow ) * maxValue ), rowCount - key );
+                QPointF dataPoint( ( stackedValues / sumValuesVector.at( curRow ) * maxValue ), key );
                 point = ctx->coordinatePlane()->translate( dataPoint );
-                point.ry() += offset / 2 + threeDOffset;
+                point.ry() -= offset + threeDOffset;
 
-                previousPoint = ctx->coordinatePlane()->translate( QPointF( ( ( stackedValues - value) / sumValuesVector.at( curRow ) * maxValue ), rowCount - key ) );
+                previousPoint = ctx->coordinatePlane()->translate( QPointF( ( ( stackedValues - value) / sumValuesVector.at( curRow ) * maxValue ), key ) );
             }
             
             const qreal barHeight = point.x() - previousPoint.x();

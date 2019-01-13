@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['legend',['Legend',['../class_k_d_chart_1_1_legend.html',1,'KDChart']]],
-  ['legend',['Legend',['../class_k_d_gantt_1_1_legend.html',1,'KDGantt']]],
+  ['legend',['Legend',['../class_k_d_chart_1_1_legend.html',1,'KDChart::Legend'],['../class_k_d_gantt_1_1_legend.html',1,'KDGantt::Legend']]],
   ['leveyjenningsaxis',['LeveyJenningsAxis',['../class_k_d_chart_1_1_levey_jennings_axis.html',1,'KDChart']]],
   ['leveyjenningscoordinateplane',['LeveyJenningsCoordinatePlane',['../class_k_d_chart_1_1_levey_jennings_coordinate_plane.html',1,'KDChart']]],
   ['leveyjenningsdiagram',['LeveyJenningsDiagram',['../class_k_d_chart_1_1_levey_jennings_diagram.html',1,'KDChart']]],

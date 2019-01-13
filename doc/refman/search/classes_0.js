@@ -7,7 +7,6 @@ var searchData=
   ['abstractcartesiandiagram',['AbstractCartesianDiagram',['../class_k_d_chart_1_1_abstract_cartesian_diagram.html',1,'KDChart']]],
   ['abstractcoordinateplane',['AbstractCoordinatePlane',['../class_k_d_chart_1_1_abstract_coordinate_plane.html',1,'KDChart']]],
   ['abstractdiagram',['AbstractDiagram',['../class_k_d_chart_1_1_abstract_diagram.html',1,'KDChart']]],
-  ['abstractgrid',['AbstractGrid',['../class_k_d_gantt_1_1_abstract_grid.html',1,'KDGantt']]],
   ['abstractlayoutitem',['AbstractLayoutItem',['../class_k_d_chart_1_1_abstract_layout_item.html',1,'KDChart']]],
   ['abstractpiediagram',['AbstractPieDiagram',['../class_k_d_chart_1_1_abstract_pie_diagram.html',1,'KDChart']]],
   ['abstractpolardiagram',['AbstractPolarDiagram',['../class_k_d_chart_1_1_abstract_polar_diagram.html',1,'KDChart']]],

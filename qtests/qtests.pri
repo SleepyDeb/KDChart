@@ -4,6 +4,8 @@ CONFIG( static ) {
 }
 
 QT += xml svg testlib
+macx:CONFIG -= app_bundle
+static { macx:QMAKE_LFLAGS += -Wl,-rpath,$$[QT_INSTALL_LIBS] }
 
 CONFIG += testlib
 

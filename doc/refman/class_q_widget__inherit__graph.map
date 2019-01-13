@@ -1,7 +1,7 @@
 <map id="QWidget" name="QWidget">
-<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_area_widget.html" title="An area in the chart with a background, a frame, etc. " alt="" coords="5,80,204,107"/>
-<area shape="rect" id="node4" href="$class_k_d_chart_1_1_chart.html" title="A chart with one or more diagrams. " alt="" coords="228,80,341,107"/>
-<area shape="rect" id="node5" href="$class_k_d_chart_1_1_widget.html" title="The KD Chart widget for usage without Model/View. " alt="" coords="366,80,489,107"/>
-<area shape="rect" id="node6" href="$class_k_d_gantt_1_1_view.html" title="This widget that consists of a QTreeView and a GraphicsView. " alt="" coords="513,80,624,107"/>
-<area shape="rect" id="node3" href="$class_k_d_chart_1_1_legend.html" title="Legend defines the interface for the legend drawing class. " alt="" coords="43,155,166,181"/>
+<area shape="rect" id="node2" href="$class_k_d_chart_1_1_abstract_area_widget.html" title="An area in the chart with a background, a frame, etc. " alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node4" href="$class_k_d_chart_1_1_chart.html" title="A chart with one or more diagrams. " alt="" coords="225,80,335,107"/>
+<area shape="rect" id="node5" href="$class_k_d_chart_1_1_widget.html" title="The KD Chart widget for usage without Model/View. " alt="" coords="359,80,478,107"/>
+<area shape="rect" id="node6" href="$class_k_d_gantt_1_1_view.html" title="This widget that consists of a QTreeView and a GraphicsView. " alt="" coords="502,80,610,107"/>
+<area shape="rect" id="node3" href="$class_k_d_chart_1_1_legend.html" title="Legend defines the interface for the legend drawing class. " alt="" coords="42,155,163,181"/>
 </map>
